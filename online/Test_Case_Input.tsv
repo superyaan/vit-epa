@@ -1,0 +1,9 @@
+edge_id	bug_id	parent_bug_id	occurrences	percentage_contribution
+1	2	1	NULL	100
+2	3	2	NULL	100
+3	4	3	100	100
+4	5	2	NULL	30
+5	5	7	NULL	70
+6	6	5	150	100
+7	8	7	NULL	100
+8	9	8	200	100
